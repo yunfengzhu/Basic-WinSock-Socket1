@@ -1,0 +1,10 @@
+c:\users\wsmith\documents\visual studio 2012\Projects\OSS\cSharpChat\cSharpChat\obj\Debug\cSharpChat.csprojResolveAssemblyReference.cache
+c:\users\wsmith\documents\visual studio 2012\Projects\OSS\cSharpChat\cSharpChat\bin\Debug\cSharpChat.exe
+c:\users\wsmith\documents\visual studio 2012\Projects\OSS\cSharpChat\cSharpChat\bin\Debug\cSharpChat.pdb
+c:\users\wsmith\documents\visual studio 2012\Projects\OSS\cSharpChat\cSharpChat\obj\Debug\cSharpChat.exe
+c:\users\wsmith\documents\visual studio 2012\Projects\OSS\cSharpChat\cSharpChat\obj\Debug\cSharpChat.pdb
+c:\users\zhuw\documents\visual studio 2015\Projects\Basic WinSock Socket1\cSharpChat\obj\Debug\cSharpChat.exe
+c:\users\zhuw\documents\visual studio 2015\Projects\Basic WinSock Socket1\cSharpChat\obj\Debug\cSharpChat.pdb
+C:\Users\zhuw\Documents\Visual Studio 2015\Projects\Basic WinSock Socket1\cSharpChat\bin\Debug\cSharpChat.exe
+C:\Users\zhuw\Documents\Visual Studio 2015\Projects\Basic WinSock Socket1\cSharpChat\bin\Debug\cSharpChat.pdb
+C:\Users\zhuw\Documents\Visual Studio 2015\Projects\Basic WinSock Socket1\cSharpChat\obj\Debug\cSharpChat.csprojResolveAssemblyReference.cache
