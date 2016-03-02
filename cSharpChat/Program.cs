@@ -5,8 +5,6 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 
-/* add comment: xxxx */
-
 namespace cSharpChat
 {
     public class OSCoreServer
