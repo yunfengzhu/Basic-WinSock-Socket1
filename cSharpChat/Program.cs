@@ -68,7 +68,7 @@ namespace cSharpChat
             return encoding.GetString(buffer);
         }
 
-
+/* removed */
         //public string ParseArgs(string[] cmdline)
         //{
         //    // Test if input arguments were supplied: 
